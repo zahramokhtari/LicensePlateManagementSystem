@@ -31,7 +31,7 @@ Mohammad, who recently received his driver's license and bought a national car w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LicensePlateManagementSystem.git
+   git clone https://github.com/zahramokhtari/LicensePlateManagementSystem.git
    ```
 2. Navigate to the project directory:
    ```bash
